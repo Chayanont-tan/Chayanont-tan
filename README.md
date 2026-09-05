@@ -25,15 +25,18 @@
 
 <div align="center">
 
-**Languages & Backend** <p>
+**Languages & Backend**
+<p>
   <img src="https://skillicons.dev/icons?i=go,nodejs,express,ts,js,postgres,redis" />
 </p>
 
-**Frontend & Design** <p>
+**Frontend & Design**
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma" />
 </p>
 
-**DevOps, Cloud & Tools** <p>
+**DevOps, Cloud & Tools**
+<p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,supabase,firebase,vscode,postman" />
 </p>
 
@@ -44,20 +47,17 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <a href="https://github.com/Chayanont-tan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chayanont-tan&show_icons=true&count_private=true&title_color=10b981&text_color=e2e8f0&icon_color=10b981&bg_color=0f172a&border_color=1e293b&border_radius=8" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Chayanont-tan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayanont-tan&stroke=1e293b&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=94a3b8&dates=64748b&border_radius=8" width="48%" alt="GitHub Streak" />
-  </a>
-</div>
+
+| GitHub Stats | Current Streak |
+| :---: | :---: |
+| <a href="https://github.com/Chayanont-tan"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chayanont-tan&show_icons=true&count_private=true&title_color=10b981&text_color=e2e8f0&icon_color=10b981&bg_color=0f172a&border_color=1e293b&border_radius=8" height="170" alt="GitHub Stats" /></a> | <a href="https://github.com/Chayanont-tan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayanont-tan&stroke=1e293b&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=94a3b8&dates=64748b&border_radius=8" height="170" alt="GitHub Streak" /></a> |
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/Chayanont-tan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanont-tan&layout=compact&langs_count=8&title_color=10b981&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&border_radius=8" width="48%" alt="Top Languages" />
-  </a>
+<a href="https://github.com/Chayanont-tan">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chayanont-tan&layout=compact&langs_count=8&title_color=10b981&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&border_radius=8" height="165" alt="Top Languages" />
+</a>
+
 </div>
 
 ---
