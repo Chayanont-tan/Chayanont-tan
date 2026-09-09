@@ -1,8 +1,7 @@
 <div align="center">
   <br />
 
-  <!-- 🪩 Rickroll GIF เต็มตาแบบในรูป -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="450" alt="Cat Typing" />
 
   <h3><i>"It works on my machine ¯\_(ツ)_/¯"</i></h3>
 
@@ -33,21 +32,3 @@ git commit -m "fix: final fix"
 git commit -m "fix: really final fix"
 git commit -m "fix: if this fails I quit"
 git push --force origin main
-```
-
----
-
-### 🛠️ What I Break Everyday
-
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,git&theme=dark" /><br />
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,postman&theme=dark" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <sub>No servers were harmed in the making of this profile (probably).</sub>
-</div>
