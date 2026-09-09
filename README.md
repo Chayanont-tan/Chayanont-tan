@@ -2,7 +2,7 @@
   <br />
 
   <!-- 🪩 Rickroll GIF เต็มตาแบบในรูป -->
-  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="480" alt="Never Gonna Give You Up" style="border-radius: 8px;" />
+ <img src="https://media.giphy.com/media/9M5jK4GXmD5o1irGrF/giphy.gif" width="450" />
 
   <h3><i>"It works on my machine ¯\_(ツ)_/¯"</i></h3>
 
