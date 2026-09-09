@@ -1,6 +1,7 @@
 <div align="center">
   <br />
 
+  <!-- 🐱 Bongo Cat Typing GIF -->
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="450" alt="Cat Typing" />
 
   <h3><i>"It works on my machine ¯\_(ツ)_/¯"</i></h3>
@@ -17,7 +18,7 @@
     <a href="https://www.linkedin.com/in/chayanont-tanthanasuk-952893384/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=10b981" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/Chayanont-tan">
+    <a href="https://github.com/Chayanont-tan" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=flat-square&logo=github&logoColor=10b981" alt="GitHub" />
     </a>
   </p>
@@ -32,3 +33,33 @@ git commit -m "fix: final fix"
 git commit -m "fix: really final fix"
 git commit -m "fix: if this fails I quit"
 git push --force origin main
+```
+
+---
+
+### 🛠️ What I Break Everyday
+
+<div align="center">
+
+**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,nodejs,ts&theme=dark" />
+</p>
+
+**Frontend & Styling**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman&theme=dark" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>No servers were harmed in the making of this profile (probably).</sub>
+</div>
