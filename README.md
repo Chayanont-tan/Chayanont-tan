@@ -2,7 +2,7 @@
   <br />
 
   <!-- 🪩 Rickroll GIF เต็มตาแบบในรูป -->
- <img src="https://media.giphy.com/media/9M5jK4GXmD5o1irGrF/giphy.gif" width="450" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="450" />
 
   <h3><i>"It works on my machine ¯\_(ツ)_/¯"</i></h3>
 
