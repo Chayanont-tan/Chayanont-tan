@@ -1,24 +1,14 @@
-# Chayanont Tanthanasuk
-
 Fullstack developer who cares about UX/UI.
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Cat typing" />
-
-```bash
-git commit -m "fix: final fix"
-git commit -m "fix: really final fix"
-git commit -m "fix: if this fails I quit"
-git push --force origin main
-```
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Cat typing" />
 
 > It works on my machine ¯\\\_(ツ)\_/¯
 
 ## Tech Stack
 
-**Backend:** `Go` `NestJS` `Node.js` `TypeScript` `PostgreSQL` `Redis`
-**Frontend:** `React` `Next.js` `Tailwind CSS`
-**Design:** `Figma`
-**Tools:** `Docker` `Kubernetes` `Git` `Postman`
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nestjs,nodejs,ts,postgres,redis,react,nextjs,tailwind,figma,docker,kubernetes,git,postman&theme=dark&perline=7" alt="Tech stack" />
+</p>
 
 ## GitHub Stats
 
