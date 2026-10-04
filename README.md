@@ -1,43 +1,28 @@
-# 👋 สวัสดี, ผมชื่อ Chayanont
+# Chayanont Tanthanasuk
 
-Fullstack developer จากไทย 🇹🇭 ถนัด **Go** เป็นหลัก ชอบทำของที่ทั้งหลังบ้านแข็งแรงและหน้าบ้านใช้แล้วรู้สึกดี
+Fullstack developer who cares about UX/UI.
 
-- 🐹 เขียน Go เป็นภาษาหลัก
-- 🎨 สนใจ UX/UI และชอบลงรายละเอียดเรื่องดีไซน์
-- 🌱 กำลังเรียนรู้ระบบ distributed และ design system เพิ่ม
-- 💬 คุยเรื่องโค้ด ดีไซน์ หรือกาแฟได้ตลอด
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Cat typing" />
 
-<br />
+```bash
+git commit -m "fix: final fix"
+git commit -m "fix: really final fix"
+git commit -m "fix: if this fails I quit"
+git push --force origin main
+```
 
-## 🛠️ Tech Stack
+> It works on my machine ¯\\\_(ツ)\_/¯
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nestjs,nodejs,ts,postgres,redis,react,nextjs,tailwind,figma,docker,kubernetes,git,postman&theme=dark&perline=7" alt="Tech stack" />
-</p>
+## Tech Stack
 
-<br />
+**Backend:** `Go` `NestJS` `Node.js` `TypeScript` `PostgreSQL` `Redis`
+**Frontend:** `React` `Next.js` `Tailwind CSS`
+**Design:** `Figma`
+**Tools:** `Docker` `Kubernetes` `Git` `Postman`
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chayanont-tan&show_icons=true&theme=transparent&title_color=10b981&icon_color=10b981&text_color=94a3b8&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanont-tan&layout=compact&theme=transparent&title_color=10b981&text_color=94a3b8&hide_border=true" alt="Top languages" />
 </p>
-
-<br />
-
-## 📫 ติดต่อผม
-
-<p>
-  <a href="mailto:chokun962@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chokun962%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=10b981" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/chayanont-tanthanasuk-952893384/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=10b981" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Chayanont-tan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=flat-square&logo=github&logoColor=10b981" alt="GitHub" />
-  </a>
-</p>
-
-<sub>ขอบคุณที่แวะมาดูครับ ✌️</sub>
